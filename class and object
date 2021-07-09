@@ -1,0 +1,6 @@
+class Bicycle{ //class
+  int gear=5;
+}
+
+Bicycle sportsBicycle=new Bicycle(); //creating object
+sportsBicycle.gear; //accessing a variable
